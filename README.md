@@ -8,8 +8,9 @@ There a 2 files one is a js file and the other is py file but both have exact sa
 
 Here is a basic data structure of a blockchain that we get from the javascript file
 
-Blockchain {
-  chain: [
+
+[  
+
     Block {
       data: '0',
       hash: '322b6723fac77c56446e99304b4a7b7edb1fd0857a0f2c452b5315f02a3022c1',   
@@ -65,5 +66,5 @@ Blockchain {
       hash: '428ea76d921ed3a330a8447e841df2fc2a87481331bb220f83271caaeda42bd7',
       prevHash: '55de58b0ea4dd6f9573968e45bbd2ae9ad0dd301dfb3a5b09677627f899e7feb'
     }
+    
   ]
-}
